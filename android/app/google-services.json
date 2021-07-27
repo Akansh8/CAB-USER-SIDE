@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842597590885",
+    "firebase_url": "https://uberclone-cc098-default-rtdb.firebaseio.com",
+    "project_id": "uberclone-cc098",
+    "storage_bucket": "uberclone-cc098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842597590885:android:8307753be9952c2818a38c",
+        "android_client_info": {
+          "package_name": "com.example.cabrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842597590885-df4ta0eup8af2e123imnbc97nj6tndk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDc5tU69-wN5dKcqGl805arpBiOU5XASI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842597590885-df4ta0eup8af2e123imnbc97nj6tndk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
